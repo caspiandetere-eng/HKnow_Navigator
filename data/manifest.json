@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-16",
+  "datasets": [
+    {
+      "key": "medquad",
+      "name": "NIH MedQuAD",
+      "repo": "lavita/MedQuAD",
+      "records_cached": 50,
+      "source_authority": "NIH",
+      "document_type": "faq",
+      "file_path": "data/raw/medquad_dataset.json"
+    },
+    {
+      "key": "pubmed_qa",
+      "name": "PubMedQA",
+      "repo": "llamafactory/PubMedQA",
+      "records_cached": 50,
+      "source_authority": "PubMed",
+      "document_type": "article",
+      "file_path": "data/raw/pubmed_dataset.json"
+    },
+    {
+      "key": "medmcqa",
+      "name": "MedMCQA",
+      "repo": "openlifescienceai/medmcqa",
+      "records_cached": 50,
+      "source_authority": "ClinicalGuideline",
+      "document_type": "guideline",
+      "file_path": "data/raw/medmcqa_dataset.json"
+    }
+  ]
+}

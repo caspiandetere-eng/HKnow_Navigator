@@ -1,0 +1,552 @@
+[
+  {
+    "document_id": "pubmed_00001",
+    "content": "Question: Answer the question based on the following context: Although the use of alternative medicine in the United States is increasing, no published studies have documented the effectiveness of naturopathy for treatment of menopausal symptoms compared to women receiving conventional therapy in the clinical setting. To compare naturopathic therapy with conventional medical therapy for treatment of selected menopausal symptoms. A retrospective cohort study, using abstracted data from medical charts. One natural medicine and six conventional medical clinics at Community Health Centers of King County, Washington, from November 1, 1996, through July 31, 1998. Women aged 40 years of age or more with a diagnosis of menopausal symptoms documented by a naturopathic or conventional physician. Improvement in selected menopausal symptoms. In univariate analyses, patients treated with naturopathy for menopausal symptoms reported higher monthly incomes ($1848.00 versus $853.60), were less likely to be smokers (11.4% versus 41.9%), exercised more frequently, and reported higher frequencies of decreased energy (41.8% versus 24.4%), insomnia (57.0% versus 33.1%), and hot flashes (69.6% versus 55.6%) at baseline than those who received conventional treatment. In multivariate analyses, patients treated with naturopathy were approximately seven times more likely than conventionally treated patients to report improvement for insomnia (odds ratio [OR], 6.77; 95% confidence interval [CI], 1.71, 26.63) and decreased energy (OR, 6.55; 95% CI, 0.96, 44.74). Naturopathy patients reported improvement for anxiety (OR, 1.27; 95% CI, 0.63, 2.56), hot flashes (OR, 1.40; 95% CI, 0.68, 2.88), menstrual changes (OR, 0.98; 95% CI, 0.43, 2.24), and vaginal dryness (OR, 0.91; 95% CI, 0.21, 3.96) about as frequently as patients who were treated conventionally.\n\nContext: Question: Is naturopathy as effective as conventional therapy for treatment of menopausal symptoms?\n\nFindings: Naturopathy appears to be an effective alternative for relief of specific menopausal symptoms compared to conventional therapy.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Although the use of alternative medicine in the ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00002",
+    "content": "Question: Answer the question based on the following context: To estimate the feasibility, utility and resource implications of electronically captured routine data for health technology assessment by randomised controlled trials (RCTs), and to recommend how routinely collected data could be made more effective for this purpose. Four health technology assessments that involved patients under care at five district general hospitals in the UK using four conditions from distinct classical specialties: inflammatory bowel disease, obstructive sleep apnoea, female urinary incontinence, and total knee replacement. Patient-identifiable, electronically stored routine data were sought from the administration and clinical database to provide the routine data. Four RCTs were replicated using routine data in place of the data already collected for the specific purpose of the assessments. This was done by modelling the research process from conception to final writing up and substituting routine for designed data activities at appropriate points. This allowed a direct comparison to be made of the costs and outcomes of the two approaches to health technology assessment. The trial designs were a two-centre randomised trial of outpatient follow-up; a single-centre randomised trial of two investigation techniques; a three-centre randomised trial of two surgical operations; and a single-centre randomised trial of perioperative anaesthetic intervention. Generally two-thirds of the research questions posed by health technology assessment through RCTs could be answered using routinely collected data. Where these questions required analysis of NHS resource use, data could usually be identified. Clinical effectiveness could also be judged, using proxy measures for quality of life, provided clinical symptoms and signs were collected in sufficient detail. Patient and professional preferences could not be identified from routine data but could be collected routinely by adapting existing instruments. Routine data were found potentially to be cheaper to extract and analyse than designed data, and they also facilitate recruitment as well as have the potential to identify patient outcomes captured in remote systems that may be missed in designed data collection. The study confirmed previous evidence that the validity of routinely collected data is suspect, particularly in systems that are not under clinical and professional control. Potential difficulties were also found in identifying, accessing and extracting data, as well as in the lack of uniformity in data structures, coding systems and definitions.\n\nContext: Question: Can randomised trials rely on existing electronic data?\n\nFindings: Routine data have the potential to support health technology assessment by RCTs. The cost of data collection and analysis is likely to fall, although further work is required to improve the validity of routine data, particularly in central returns. Better knowledge of the capability of local systems and access to the data held on them is also essential. Routinely captured clinical data have real potential to measure patient outcomes, particularly if the detail and precision of the data could be improved.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To estimate the feasibility, utility and resourc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00003",
+    "content": "Question: Answer the question based on the following context: To compare morbidity in two groups of patients who underwent retropubic or laparoscopic radical prostatectomy in the same period. The clinical and pathological data obtained in 50 consecutive patients who underwent retropubic radical prostatectomy (RRP) from January 2001 to December 2001 were compared to those obtained in 71 consecutive patients who were treated in the same year by extraperitoneal laparoscopic radical prostatectomy (LRP). The two groups were comparable in terms of mean pre-operative PSA and biopsy Gleason score. The peri-operative data included operative time, intra-operative and post-operative transfusion rates, complication rates, hospitalization length, and duration of catheterization. The following pathological parameters were considered: Gleason score, pathological stage, and positive surgical margin rate. A comparative evaluation of continence recovery (no pads and any leakage) was made only in patients with follow-up longer than 12 months. The two groups were comparable in terms of pathological stage and definitive Gleason score. Operating times were significantly shorter in RRP (p<0.0001). LRP patients showed higher autologous (p<0.001) and eterologous transfusion (p=0.03). No significant difference was observed in terms of complication rates (p=0.07). The rectal injury rate was 2.8% in the laparoscopic group. The mean post-operative hospital stay was 10.2+/-2 days in the surgery group and 7.2+/-3.4 days in the laparoscopy group (p<0.001). Catheterization time was 8.4+/-0.9 days in the surgery group and 8+/-2.8 days in the laparoscopy group (p=0.27). After 12 months, complete continence was achieved in 64% of RRP and 40% of LRP patients, respectively (p=0.29).\n\nContext: Question: Is laparoscopic radical prostatectomy better than traditional retropubic radical prostatectomy?\n\nFindings: The results of our non-randomized study show that up to now laparoscopic radical prostatectomy does not provide significant advantages in terms of peri-operative morbidity compared with the traditional retropubic approach.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To compare morbidity in two groups of patients w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00004",
+    "content": "Question: Answer the question based on the following context: Irritable bowel syndrome (IBS) might develop after gastroenteritis. Most previous studies of this relationship have been uncontrolled, and little is known regarding other functional gastrointestinal disorders (FGIDs) after gastroenteritis. The primary aim of this study was to determine the frequency of IBS, functional dyspepsia, or functional diarrhea 6 months after bacterial gastroenteritis. This was a prospective, community-based, case-control study. Cases had proven bacterial gastroenteritis, and controls were community-based. FGIDs were diagnosed with the use of self-completed Rome II modular questionnaires administered at baseline, 3, and 6 months. Subjects with prior FGIDs were excluded. The primary endpoint was the presence of one of the three specific FGIDs at 6 months. A total of 500 cases and 705 controls were identified. Of the 500 cases, 265 (53%) consented, but only 128 cases and 219 community controls who consented were eligible. At 6 months, 108 cases and 206 controls returned the questionnaire. FGIDs were diagnosed in significantly more cases (n = 27, 25%) than controls (n = 6, 2.9%) (OR = 11.11, 95% CI = 4.42-27.92). IBS was diagnosed in 18 cases (16.7%) and four controls (1.9%) (OR = 10.1, 95% CI = 3.32-30.69); functional diarrhea in six cases (5.6%) and no controls. Functional dyspepsia was uncommon in both cases and controls. Similar findings were found at 3 months, with 29% of cases and 2.9% of controls having an FGID.\n\nContext: Question: Does bacterial gastroenteritis predispose people to functional gastrointestinal disorders?\n\nFindings: Symptoms consistent with IBS and functional diarrhea occur more frequently in people after bacterial gastroenteritis compared with controls, even after careful exclusion of people with pre-existing FGIDs. The frequency is similar at 3 and 6 months. Our findings support the existence of postinfectious IBS and give an accurate estimate of its frequency.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Irritable bowel syndrome (IBS) might develop aft",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00005",
+    "content": "Question: Answer the question based on the following context: Urgent colonoscopy has been proposed for the diagnosis and management of acute colonic diverticular bleeding. Identification of active bleeding and nonbleeding stigmata facilitates diagnosis and endoscopic therapy, but it is unclear whether urgent colonoscopy after presentation increases the diagnostic yield. This study evaluated the association between timing of colonoscopy and diagnostic yield in patients admitted with acute colonic diverticular bleeding. Patients admitted for hematochezia and receiving a diagnosis of diverticular hemorrhage were identified using the Mayo Clinic GI Bleeding Team and Emergency Room Admissions Databases for the years 1998-2000. Timing of colonoscopy was determined from the time of admission. Logistic regression analysis was used to assess whether the timing of colonoscopy was associated with an endoscopic finding of active bleeding or nonbleeding stigmata (or both). A diagnosis of definitive or presumptive diverticular bleeding was made in 78 patients (39 men and 39 women, mean age 78 yr, range 49-96 yr). Twelve patients (15%) had active bleeding or stigmata. Colonoscopies were performed a mean of 18 +/- 11 h after admission. The association between a definitive diagnosis of acute diverticular bleeding and the timing of colonoscopy was not significant (p>0.46).\n\nContext: Question: Is early colonoscopy after admission for acute diverticular bleeding needed?\n\nFindings: No significant association is apparent between the timing of colonoscopy after admission and encountering active bleeding or nonbleeding stigmata. Based on these observations, urgent colonoscopy for these patients does not seem advantageous.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Urgent colonoscopy has been proposed for the dia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00006",
+    "content": "Question: Answer the question based on the following context: To compare the proportion of airway and vascular access procedures performed by referring hospital staff on critically ill children in two discrete time periods, before and after widespread use of a specialised paediatric retrieval service. Transport data were obtained from retrieval logs of all children for whom a paediatric retrieval team was launched in each of two time periods (October 1993 to September 1994; and October 2000 to September 2001). The overall intubation rate was similar in the first and second time periods (83.9% v 79.1%). However, 31/51 (61%) retrieved children were intubated by referring hospital staff in 1993-94, compared to 227/269 (84%) in 2000-01. Referring hospital staff gained central venous access in 11% v 18% and arterial access in 22% v 19% of retrieved children in the first and second time periods respectively. This was in spite of a significant reduction in the proportion of children on whom these procedures were performed.\n\nContext: Question: Does the use of a specialised paediatric retrieval service result in the loss of vital stabilisation skills among referring hospital staff?\n\nFindings: Referring hospital staff are performing a greater proportion of initial airway and vascular access procedures undertaken in the stabilisation of sick children retrieved by a specialised paediatric retrieval team. The provision of this service has not resulted in the loss of vital skills at the local hospital.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To compare the proportion of airway and vascular",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00007",
+    "content": "Question: Answer the question based on the following context: To determine the clinical course and long term outcome of empyema treated without decortication. Fourteen consecutive admissions to one hospital were studied; radiological resolution and lung function were subsequently followed. The children were aged 2-14 years. All were treated with intravenous antibiotics and chest drain only. All patients had extensive pleural thickening evident on chest x ray examination at the time of discharge, which resolved entirely over a period of 2-16 months. Lung function was measured in 13 children, and showed no evidence of restrictive or obstructive deficit: mean (SD) values as per cent predicted for height were: forced expiratory volume in one second (FEV1) 107.5 (9.6), forced vital capacity (FVC) 95.5 (8.8), total lung capacity (TLC) 98.6 (20.7). Individual children all had values in the normal range (80-120 per cent predicted).\n\nContext: Question: Management of thoracic empyema in childhood: does the pleural thickening matter?\n\nFindings: Results suggest that decortication is not necessary in children to prevent long term problems with pleural thickening, and should be undertaken on the basis of the clinical picture (failure of fever resolution), rather than radiological appearance.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To determine the clinical course and long term o",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00008",
+    "content": "Question: Answer the question based on the following context: Direct pressure applied on the inner ear cannot induce hearing loss. Three possible causes have been described in the literature for inner ear permanent lesions during scuba diving: pressure imbalance between the middle ear and the external ear, appearance of microbubbles in the internal ear, and direct effect of pressure on the inner ear. We seek to determine whether this last factor can be involved. We submitted two groups of guinea pigs previously implanted with an electrode in the round window to a protocol of air diving in a hyperbaric chamber. Eardrums of animals in one of the two groups had been perforated beforehand. Twenty dives were practiced over 4 weeks. We chose dive parameters consistent with common sport diving: maximal pressure of 4 atmosphere absolute and duration of 30 minutes. Auditory threshold and cochlear spontaneous activity were recorded at regular intervals. Furthermore, we recorded spontaneous cochlear activity in Heliox 400-m and 600-m dives to determine whether our conclusions hold for \"extreme\" diving. In the group with perforated eardrums, no variation of those parameters were recorded, even in extreme diving. Important variations were noticed in the other group.\n\nContext: Question: Does repeated hyperbaric exposure to 4 atmosphere absolute cause hearing impairment?\n\nFindings: Pressure applied directly on the inner ear during diving does not disturb cochlear activity.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Direct pressure applied on the inner ear cannot ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00009",
+    "content": "Question: Answer the question based on the following context: Current practice in reconstruction of the lower urinary tract for duplicated renal systems with an associated ureterocele is excision of the ureterocele with reconstruction of the bladder and a common sheath ureteroneocystostomy. For a nonfunctioning upper pole treatment is partial nephroureterectomy. We postulate that lower urinary tract reconstruction can be performed successfully through an extravesical approach without excision of the ureterocele or reconstruction of the bladder base. We present our experience with that approach. Between 1996 and 2001, 60 patients presented with the diagnosis of ureterocele and obstruction of the upper pole ureter. Partial nephrectomy was performed in 12 cases of which 4 had reflux to the lower pole moiety. Upper pole only dismembered ureteroneocystostomy was performed in 7 of 15 cases reconstructed using the extravesical approach. Average postoperative stay was 3.7 days. The Foley catheter was removed within 24 to 48 hours. Postoperative ultrasound showed decompression of the obstructed system and the ureterocele. Reflux was corrected in all patients. Flow rate with measurement of post-void residual 6 weeks postoperatively in toilet trained children showed complete bladder emptying.\n\nContext: Question: Lower urinary tract reconstruction for duplicated renal units with ureterocele. Is excision of the ureterocele with reconstruction of the bladder base necessary?\n\nFindings: Lower urinary tract reconstruction for duplicated renal systems with obstruction of the upper pole can be accomplished safely with decreased morbidity through the extravesical approach without excision of the ureterocele or reconstruction of the bladder base. Moreover, in instances when there is no reflux to the lower pole moiety, upper pole only extravesical ureteroneocystostomy can be performed.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Current practice in reconstruction of the lower ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00010",
+    "content": "Question: Answer the question based on the following context: We evaluate the outcome vesicoureteral reflux (VUR) in duplicated collecting systems compared to single collecting systems corrected using an extravesical detrusorrhaphy approach. We reviewed the records of 266 patients (422 ureters) treated for VUR using an extravesical approach between 1991 and 2001. Inclusion criteria were primary reflux in single (201 patients, 125 bilateral) or duplicated collecting systems (65, 31 bilateral) in patients not undergoing other concomitant surgery with at least 1 year of postoperative followup. The indication for surgical intervention was unresolved reflux (greater than 4 years) in more than 70% of patients. Postoperative evaluation included a voiding cystourethrogram at 3 months and 12 months if reflux was unresolved at 3 months. Also ultrasound was performed at 6 weeks or earlier if clinically indicated and 12 months. Group 1 (duplicated collecting systems) and group 2 (single collecting systems) were comparable for age, sex distribution and reflux grade distribution. Overall success rate at 3 and 12 months was 94.7% and 98.9% for group 1, and 95.1% and 98.5% for group 2, respectively. The difference in success rate at 3 and 12 months was not statistically significant (p>0.05). Of note in both groups postoperative VUR was contralateral in more than 40% of cases. Postoperative hydronephrosis (Society for Fetal Urology grade 1, 2 or 1 increment in grade from preoperative status) was observed in 5.3% and 7.3% of ureteral units at 6 weeks in groups 1 and 2, respectively (p>0.05). At 12 months less than 1% of ureteral units exhibited low grade residual hydronephrosis. No high grade postoperative hydronephrosis was observed in either group, and there were no intraoperative complications. Postoperative urinary retention occurred in 4.7% and 4% of patients in groups 1 and 2, respectively (p>0.05).\n\nContext: Question: Is common sheath extravesical reimplantation an effective technique to correct reflux in duplicated collecting systems?\n\nFindings: Common sheath extravesical reimplantation is highly effective in treating VUR. The common sheath extravesical reimplantation for duplicated collecting systems is as effective in nonduplicated systems and is associated with minimal perioperative morbidity.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: We evaluate the outcome vesicoureteral reflux (V",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00011",
+    "content": "Question: Answer the question based on the following context: We determine whether the finding of a nonpalpable left testis and hypertrophied(2 cc or greater) right testis is predictive of an atrophic (perinatal torsion) left testis. Prospectively, all boys with a nonpalpable left testis and hypertrophied right testis seen between May 2000 and May 2002 were included in the study. Testicular measurement was performed preoperatively with an orchidometer. In 19 of 22 boys size was also confirmed intraoperatively. Surgical exploration was done initially through a scrotal incision. Diagnostic laparoscopy was performed in boys in whom intrascrotal tissue that was consistent with a \"nubbin\" was not found. All tissue removed was submitted for histological evaluation. In 19 of 22 boys tissue was found in the left hemiscrotum that was clinically consistent with a scrotal nubbin, and histological confirmation was absolute in 18. In 1 patient a hollow oval mass attached to a cord extending to the external inguinal ring was found without the other classic histological features of torsion. In 3 cases scrotal exploration was negative and diagnostic laparoscopy was performed. Of this group the pathognomonic findings of a closed internal ring with hypoplastic vas and vessels were noted in 2 cases, and normal vas and vessels were seen to exit an open internal inguinal ring in 1. Inguinal exploration demonstrated an enlarged intracanalicular testis measuring 3 cc in volume, comparable in size to the descended right testicle.\n\nContext: Question: Is an empty left hemiscrotum and hypertrophied right descended testis predictive of perinatal torsion?\n\nFindings: The combination of a nonpalpable left testis and an enlarged right testis is highly predictive of perinatal testicular torsion. When both criteria were met 20 of 22 (91%) consecutive patients had histological or laparoscopically confirmed perinatal torsion and 1 had only clinical features. This finding supports the concept of scrotal exploration as the initial procedure in the child who has an empty left hemiscrotum and hypertrophied descended right testis. Laparoscopy should be reserved for boys in whom a distinct remnant is not found on scrotal exploration.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: We determine whether the finding of a nonpalpabl",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00012",
+    "content": "Question: Answer the question based on the following context: In boys with resected posterior urethral valves (PUV) deterioration of renal function is seen during childhood and adolescence, which may partly be caused by bladder dysfunction. We present data on renal and bladder function initially and at followup of boys with PUV in whom the bladder dysfunction has been treated since infancy. The study included 35 boys with PUV. Bladder regimen, including early toilet training from the age of 1.5 years and detrusor relaxant drugs for the treatment of incontinence from ages 4 to 6 years, was introduced to all patients. A total of 19 boys were started on clean intermittent catheterization (CIC) at a median age of 8 months due to pronounced bladder dysfunction with poor emptying, unsafe pressure levels, high grade reflux and renal impairment. No serious complications of CIC have been seen during followup. Of the 19 boys 2 stopped performing CIC due to noncompliance of the parents at 1 and 3 years, respectively. Initial renal function, measured as median glomerular filtration rate (GFR) in percent of expected for age, was 60% in the CIC group and 90% in the nonCIC group. At followup at a median age of 8 years the CIC group (n = 14, 3 transplanted boys excluded) had an increase in median differential GFR (difference between followup and initial GFR) of 7% (p<0.01), which was similar increase to that of the nonCIC group. In the 2 boys who stopped performing CIC renal function deteriorated with a median differential GFR of -24%. In the CIC group detrusor instability decreased. Poor compliance was seen in 6 of the 19 boys initially and only one remained poorly compliant. In 1 of the boys who stopped performing catheterization a low compliant bladder developed. In all of the other cases bladder capacity increased more than expected for age.\n\nContext: Question: Does treatment with clean intermittent catheterization in boys with posterior urethral valves affect bladder and renal function?\n\nFindings: The results suggest that treatment of bladder dysfunction in boys with PUV can counteract the deterioration in renal function seen during childhood but the number of patients in our study is limited.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: In boys with resected posterior urethral valves ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00013",
+    "content": "Question: Answer the question based on the following context: We investigated whether a diagnosis of bladder outflow obstruction could be established from pressure flow analysis of a void initiated by involuntary detrusor overactivity. A total of 79 men with lower urinary tract symptoms were identified prospectively. In each subject 2 sequential pressure flow studies were performed during the same session. Pressure flow data were recorded during a voluntary void and voiding initiated by involuntary detrusor overactivity. Pressure flow parameters were compared using the paired t test and differences in classification according to the International Continence Society nomogram were analyzed using the chi-square test. The maximum flow rate showed no significant difference between voluntary voiding and voiding initiated by involuntary detrusor overactivity. Detrusor pressure at maximum flow showed a slight, statistically significant but not clinically significant increase during voiding initiated by involuntary detrusor overactivity. However, the diagnostic classification remained unchanged in 64 of 79 men (80%). In no case was the diagnosis altered from bladder outflow obstruction to nonobstruction or vice versa when comparing the 2 pressure flow studies. There were significant increases in maximum detrusor pressure and detrusor pressure at the initiation of voiding during voiding initiated by involuntary detrusor overactivity.\n\nContext: Question: Can bladder outflow obstruction be diagnosed from pressure flow analysis of voiding initiated by involuntary detrusor overactivity?\n\nFindings: This study demonstrates that increased detrusor pressure observed during voiding subsequent to detrusor overactivity does not change the diagnostic classification in 80% of men. The results provide evidence that bladder outflow obstruction can be reliably diagnosed based on pressure flow parameters recorded during voiding initiated by involuntary detrusor overactivity.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: We investigated whether a diagnosis of bladder o",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00014",
+    "content": "Question: Answer the question based on the following context: Radio frequency ablation (RFA) has been used as a minimally invasive alternative to nephrectomy for small renal tumors. Questions have arisen regarding the accuracy of cell viability determination on standard hematoxylin and eosin (H&E) staining. We investigated and compared the histological characteristics of RF ablated renal tissue using nicotinamide adenine dinucleotide (NADH) and H&E staining. Ten porcine kidneys underwent laparoscopic RFA of the upper and lower poles using a 2 (8) or 3 cm (2) protocol with 2 cycles of 90 W, target temperature 105C and treatment time 5.5 minutes per cycle. Following tract ablation the kidneys were immediately harvested, gross lesion size was measured and tissue was processed for standard H&E and NADH staining. H&E staining of ablated tissue revealed a number of alterations in renal tubular histology. However, all of these findings were focal with areas of parenchyma that appeared well preserved. Corresponding areas on NADH processed sections showed the complete absence of staining, indicating the lack of cellular viability. There were no skip areas noted on NADH processed sections and treated portions demonstrated a well demarcated border of ablation.\n\nContext: Question: Optimal lesion assessment following acute radio frequency ablation of porcine kidney: cellular viability or histopathology?\n\nFindings: While RFA produces discernible histological changes acutely on H&E, these alterations are variable and patchy, and they alternate with areas of well preserved tissue. Therefore, NADH staining should always be used to assess and verify cellular death in RFA lesions. In this study no skip areas of viable cells were noted within areas of ablated tissue on NADH staining.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Radio frequency ablation (RFA) has been used as ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00015",
+    "content": "Question: Answer the question based on the following context: To determine the efficacy of secondary preventive therapy against tuberculosis (TB) among gold miners working in South Africa. An observational study. Health service providing comprehensive care for gold miners. The incidence of recurrent TB was compared between two cohorts of HIV-infected miners: one cohort (n = 338) had received secondary preventive therapy with isoniazid (IPT) and the other had not (n = 221). The overall incidence of recurrent TB was reduced by 55% among men who received IPT compared with those who did not (incidence rates 8.6 and 19.1 per 100 person-years, respectively; incidence rate ratio, 0.45; 95% confidence interval 0.26-0.78). The efficacy of isoniazid preventive therapy was unchanged after controlling for CD4 cell count and age. The number of person-years of IPT required to prevent one case of recurrent TB among individuals with a CD4 cell count<200 x 106 cells/l, and>or = 200 x 106 cells/l was 5 and 19, respectively.\n\nContext: Question: Efficacy of secondary isoniazid preventive therapy among HIV-infected Southern Africans: time to change policy?\n\nFindings: Secondary preventive therapy reduces TB recurrence: the absolute impact appears to be greatest among individuals with low CD4 cell counts. International TB preventive therapy guidelines for HIV-infected individuals need to be expanded to include recommendations for secondary preventive therapy in settings where TB prevalence is high.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To determine the efficacy of secondary preventiv",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00016",
+    "content": "Question: Answer the question based on the following context: Most obstetricians and gynecologists order serum levels of thyroid stimulating hormone (TSH) and prolactin (PRL) in every female patient undergoing an infertility evaluation (regardless of their menstrual rhythm). Patients were recruited from the clinical practice of the named authors in a prospective manner. Serum TSH and PRL were ordered at the time of the couple's initial consult. 2.48% of patients (21 out of 846 patients) had abnormal levels of TSH, and 1.77% (15 of 844 patients) had elevated levels of PRL.\n\nContext: Question: Is it necessary to obtain serum levels of thyroid stimulating hormone and prolactin in asymptomatic women with infertility?\n\nFindings: The practice of routinely ordering serum levels of TSH and PRL in infertility patients having normal periods is questioned.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Most obstetricians and gynecologists order serum",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00017",
+    "content": "Question: Answer the question based on the following context: Treatment outcomes are an important determinant of patients' treatment preferences. Although studies have examined how well surrogates agree with patients' preferences for specific treatment interventions, agreement regarding the valuation of health states as treatment outcomes is unknown. Cross-sectional cohort study consisting of in-home interviews with 193 persons 60 years or older and seriously ill with cancer, congestive heart failure, or chronic obstructive pulmonary disease and their caregivers. Patients were asked whether, facing an exacerbation of illness, they would find a series of health states acceptable as a result of treatment (a rating of \"unacceptable\" meant they would prefer to die than to receive treatment). Caregivers were asked whether they would find these states acceptable for the patient. There was 80% or greater agreement for health states that were overall rated either acceptable (current health, mild memory impairment, mild pain, or other symptoms) or unacceptable (coma). There was 58% to 62% agreement (kappa = 0.10-0.25) about states with more severe physical or cognitive impairment. When disagreement occurred, caregivers were more likely to rate the state as acceptable. There was 61% to 65% agreement (kappa = 0.20-0.28) about states with severe pain or other symptoms. When disagreement occurred, caregivers and patients were equally likely to rate the state as acceptable.\n\nContext: Question: Valuing the outcomes of treatment: do patients and their caregivers agree?\n\nFindings: Patient-caregiver agreement about the acceptability of health states with functional or cognitive impairment, severe pain, or other symptoms was poor. Caregivers making surrogate decisions based on considerations of treatment outcomes may not effectively represent patients' preferences.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Treatment outcomes are an important determinant ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00018",
+    "content": "Question: Answer the question based on the following context: To determine the effect of different mattresses on cardiopulmonary resuscitation performance and establish whether emergency deflation of an inflatable mattress improves the quality of resuscitation. Randomised controlled cross-over trial performed in a general Critical care staff from a general ICU. Cardiopulmonary resuscitation on a manikin on the floor or on a bed with a standard foam mattress and inflated and deflated pressure redistributing mattresses. Maximal compression force was measured at different bed heights. Compression depth, duty cycle and rate and percentage correct expired air ventilation were recorded on a manikin. Compression depth was significantly lower on the foam (35.2 mm), inflated (37.2 mm) and deflated mattress (39.1 mm) than the floor (44.2 mm). There were no clinically important differences in duty cycle or compression rate. The quality of ventilation was poor on all surfaces. Maximal compression force declined as bed height increased.\n\nContext: Question: Do different mattresses affect the quality of cardiopulmonary resuscitation?\n\nFindings: Resuscitation performance is adversely affected when performed on a bed (irrespective of mattress type) compared to the floor. There were no differences between the inflated and deflated mattresses, although the deflation process did not adversely affect performance. This study does not support the routine deflation of an inflated mattress during resuscitation and questions the potential benefits from using a backboard. The finding that bed height affects maximal compression forces, challenges the recommendation that cardiopulmonary resuscitation be performed with the bed at middle-thigh level and requires further investigation.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To determine the effect of different mattresses ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00019",
+    "content": "Question: Answer the question based on the following context: The aim of the present study was to assess the general population from two Sardinian areas to ascertain the direct health care costs involved in a diagnosis of major depression, and to verify the hypothesis of an increased expenditure for untreated depressed subjects. A case-control study was carried out using the database of an epidemiological community survey. Cases were subjects with a diagnosis of Major Depressive Episode (ICD-10, WHO 1992) in the last year, and controls comprised two groups matched to cases for sex and age, made up of healthy subjects and subjects affected by chronic somatic disorders, respectively. Depressed subjects use more health care resources than those affected by chronic somatic disorders or healthy subjects. An increase in health care costs is observed for drugs and hospitalisations in depressed subjects for whom no adequate antidepressive treatment has been prescribed.\n\nContext: Question: Could health care costs for depression be decreased if the disorder were correctly diagnosed and treated?\n\nFindings: In spite of the limitations of the small sample size, the results seem to confirm an increase of direct health care costs in untreated depressed subjects. In view of the availability of efficient forms of treatment for depression, the findings obtained indicate that depression should be considered a priority question for public health and assigning of resources. Further confirmation should be sought in larger population-based studies representing the entire national context.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The aim of the present study was to assess the g",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00020",
+    "content": "Question: Answer the question based on the following context: Clinically, females receive anterior cruciate ligament (ACL) tears more commonly than males. We explored whether gender differences exist in MR imaging patterns of ACL tears. At 1.5 T, two observers evaluated MR examinations of 84 consecutive age-matched patients (42 males, 42 females, aged 16-39) with ACL tears, for mechanism of injury, extent and type of tear, the presence of secondary signs and associated osseous, meniscal and ligamentous injuries. The most common mechanism of injury for both females and males was the pivot shift mechanism (67 and 60%, respectively). Females were more commonly imaged in the acute stage of tear than males (98 and 67%, respectively, p=0.001) and more commonly possessed the typical posterolateral tibial bone contusion pattern (88 and 62%, respectively, p=0.0131). Males exhibited a deeper femoral notch sign (2.7 and 2.0 mm, p=0.007) and medial meniscal, lateral collateral ligament and posterior cruciate ligament injuries more commonly than females (48 and 24%, p=0.009, 30 and 7%, p=0.035, 17 and 0%, p=0.035). There was no significant difference between genders for the presence of other secondary signs and contusion patterns, associated lateral meniscal tears, presence of O'Donoghue's triad or associated medial collateral ligament injuries.\n\nContext: Question: MR imaging of anterior cruciate ligament tears: is there a gender gap?\n\nFindings: Gender differences in MR imaging patterns of ACL tears exist: females are more commonly imaged in the acute stage and more commonly possess posterolateral tibial bone contusions; males have a more severe presentation than females, associated with more severe lateral femoral condyle and soft tissue injuries.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Clinically, females receive anterior cruciate li",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00021",
+    "content": "Question: Answer the question based on the following context: The distribution of fractures in the spine reported in the literature is quite variable. Application of such data to the pediatric population needs to take into account differences between children and adults, including overall decreased fracture frequency in children, developmental and physiological differences, and mechanism of injury. Knowledge of specific regions of injury may alter search patterns and protocols. To determine if the distribution of spinal injuries in pediatric patients is related to age, mechanism of injury, or gender. All pediatric patients (<18 years old) referred to our trauma service over a 5-year period were retrospectively reviewed. All patients with vertebral fracture and/or neurological injury were included. The levels of the spinal fractures were tabulated. Correlation was then made with age, gender, and mechanism of injury (motor vehicle accident versus non-motor vehicle accident). Of the 2614 pediatric patients, 84 sustained vertebral fracture and 50 had neurological injury without radiographic abnormality. A total of 164 fractures were identified. The thoracic region (T2-T10) was most commonly injured, accounting for 47 fractures (28.7%) followed by the lumbar region (L2-L5) with 38 fractures (23.2%), the mid-cervical region with 31 fractures (18.9%), the thoracolumbar junction with 24 fractures (14.6%), the cervicothoracic junction with 13 fractures (7.9%), and the cervicocranium with 11 fractures (6.7%). There was no relationship to gender or mechanism of injury.\n\nContext: Question: Distribution of spinal fractures in children: does age, mechanism of injury, or gender play a significant role?\n\nFindings: Regardless of gender or mechanism of injury, the thoracic spine (T2-T10) is the most common region of fracture in pediatric trauma patients.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The distribution of fractures in the spine repor",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00022",
+    "content": "Question: Answer the question based on the following context: Mental health literacy has been defined as the public's knowledge and the beliefs about mental disorders enhancing the ability to recognise specific disorders. Firstly, to determine whether the public recognises a person depicted in a vignette as mentally ill or as experiencing a crisis. Secondly, to reveal the factors influencing the correct recognition. Multiple logistic regression analysis of an opinion survey conducted in a representative population sample in Switzerland (n=844). The depression vignette was correctly recognised by 39.8% whereas 60.2% of the respondents considered the person depicted as having a 'crisis.' The schizophrenia vignette was correctly identified by 73.6% of the interviewees. A positive attitude to psychopharmacology positively influenced the recognition of the two vignettes whereas a positive attitude to community psychiatry had the inverse effect. Moreover, for the depression vignette previous contact to mentally ill people had a positive influence on the recognition. For the schizophrenia vignette instead, rigidity and interest in mass media had a negative influence, respectively.\n\nContext: Question: Do people recognise mental illness?\n\nFindings: The low knowledge about mental disorders, particularly depression, confirms the importance and the need to increase mental health literacy. Furthermore, professionals must openly discuss illness models with their patients, especially emphasising the differences between illness and crisis.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Mental health literacy has been defined as the p",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00023",
+    "content": "Question: Answer the question based on the following context: The purpose of this study was to examine idiotypic cascade mechanisms in the plasma of a prolonged survivor patient with aggressive non-Hodgkin's lymphoma (NHL). It is a follow-up to previously published seminal studies by this laboratory showing survival benefit associated with radioimmunotherapy in NHL patients. Immunoglobulin from the patient's plasma was purified, characterized, and shown to possess the activities expected of idiotypic antibodies. Plasma from a NHL patient treated with Lym-1 was precipitated with ammonium sulfate and octanoic acid, followed by immunoadsorbant chromatography with solid phase Lym-1 monoclonal antibody to purify Ab2. The last purification step involved the binding of Ab3 to glutaraldehyde-fixed Raji cells, followed by acid elution of Ab3. Proteins were quantified and characterized. Antibody-dependent cellular cytotoxicity activity was determined using a standard (51)Cr release assay. Purified immunoglobulin populations exhibited the characteristics of Ab2beta and Ab3 antibodies. Both showed ability to compete with the binding of Lym-1 to its tumor cell target, and Ab3 showed ability to induce antibody-dependent cellular cytotoxicity.\n\nContext: Question: Documentation of idiotypic cascade after Lym-1 radioimmunotherapy in a patient with non-Hodgkin's lymphoma: basis for extended survival?\n\nFindings: This study offers direct evidence for initiation of a multilevel idiotypic cascade in a patient undergoing passive monoclonal antibody therapy for NHL. The patient's prolonged disease-free survival may, thus, be understood in the context of the generation of endogenous, self-perpetuating tumor-specific antibodies.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The purpose of this study was to examine idiotyp",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00024",
+    "content": "Question: Answer the question based on the following context: The clinical outcome of patients with ampullary carcinoma is significantly more favorable than for patients with pancreatic head carcinoma. The Whipple procedure is the operation of choice for both diagnoses. Still local resection is recommended in selected cases. The aim of this study was to assess the outcome of local resection of cancer of the ampulla of Vater by comparison with pancreaticoduodenectomy. 92 patients with cancer of the ampulla of Vater treated between 1975 and 1999 with local resection (n = 10), pancreatic resection (n = 49) or laparotomy and no resection (n = 33) were studied retrospectively. The main outcome measures were postoperative morbidity and mortality, surgical radicality and long-term survival. The postoperative complication rate was significantly lower after local resection (p = 0.036) whereas mortality did not differ between the 2 resection groups. UICC stages were less advanced in the local resection group (p<0.04). Still, the frequency of positive resection margins and RO resections was the same in both groups, as was long-term survival. Local recurrence was diagnosed in 8/10 (80%) patients after local and in 11/49 (22%) patients after pancreatic resection (p = 0.001).\n\nContext: Question: Management of cancer of the ampulla of Vater: does local resection play a role?\n\nFindings: Pancreaticoduodenectomy is the preferred operation for cancer of the ampulla of Vater in patients who are fit for the procedure. Local resection plays a limited role in carefully selected patients.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The clinical outcome of patients with ampullary ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00025",
+    "content": "Question: Answer the question based on the following context: Thyroid hormones play an important role in the regulation of lipid and carbohydrate metabolism, both of which are affected in patients with non-alcoholic steatohepatitis (NASH). Anecdotally, we have observed that a number of patients with NASH carried a diagnosis of hypothyroidism. However, it is unknown if thyroid dysfunction plays any role in the pathogenesis of NASH. To further investigate this observation, we conducted a case-control study to determine the association between hypothyroidism and NASH. Cases were defined as patients with well-documented NASH attending hepatology clinics at Indiana University Hospital from January 1, 1995 to December 31, 2000. Age, gender, race, and body-weight matched individuals seen during the same period in the general medical clinics served as controls. Patients with a previous diagnosis of hypothyroidism who are currently on synthetic T4 replacement were considered to be \"hypothyroid\". The strength of association was assessed by logistic regression analysis after controlling for the frequency of diabetes mellitus, hyperlipidemia, and hypertension. One hundred seventy-four patients with NASH (cases) and 442 controls were included. The mean age of cohort was 49 +/- 13 years, 59% were female, and 98% were white. The prevalence of hypothyroidism in patients with NASH was 15% was significantly higher than in the controls (7.2%, P<0.001). By multivariate analysis, the prevalence of hypothyroidism in the NASH group was significantly higher than in control group (OR: 2.3, 95% CI: 1.2-4.2, P = 0.008).\n\nContext: Question: Is hypothyroidism a risk factor for non-alcoholic steatohepatitis?\n\nFindings: These data suggest that hypothyroidism is associated with human NASH. Further research is needed to confirm this finding and to understand its implications.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Thyroid hormones play an important role in the r",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00026",
+    "content": "Question: Answer the question based on the following context: To ascertain the value of transcranial Doppler ultrasonography (TCD) in the first 24 hours of hospital admission in patients suffering good-grade spontaneous subarachnoid hemorrhage (SAH) in order to detect a high-risk group for symptomatic vasospasm. Forty-nine spontaneous good-grade SAH were included. The first TCD studies were carried out at the Emergency Department. At least one more TCD recording was performed between the 4th and 14th day. Patients were classified according to whether they came to the hospital during the first 72 hours after the haemorrhage (Group 1) or later (Group 2). Thirty three patients were included in Group 1 and sixteen patients in Group 2. Thirteen patients (26.5%) had sonographic vasospasm. In eight of these patients (61 %), the vasospasm was symptomatic. The initial mean velocity (MV) for Group 1 was normal. The increase in MV/24h (MV/24h) within the first 72 hours after SAH was higher (p<0.007), in those whose developed sonographic vasospasm. In Group 2, the initial MV was greater (p<0.001)) in patients who suffered sonographic vasospasm, with or without symptoms.\n\nContext: Question: Spontaneous subarachnoid hemorrhage,: is emergency transcranial Doppler sonography useful?\n\nFindings: The ability of TCD recorded in the first 24 hours of hospital admission to detect high-risk vasospasm patients for SAH with low clinical severity helps decide the most efficient patient destination. During the first three days the MV/24h is of value but not the absolute figure of the MV. In contrast, between the 4th and 14th day after SAH, the absolute figure of MV was useful to predict vasospasm.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To ascertain the value of transcranial Doppler u",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00027",
+    "content": "Question: Answer the question based on the following context: Lichen aureus is localized variant of persistent pigmented purpuric dermatitis that typically affects the legs and can be associated with delayed hypersensitivity reactions or vascular abnormalities. Plasma cell vulvitis (Zoon's vulvitis) is a rare condition that frequently contains hemosiderin deposits and is suspected to be a mucosal reaction pattern due to variety of insults, most often local irritation or trauma. A 50-year-old female with longstanding complaints of spotting, vulvar dryness, irritation, and dyspareunia presented with circumscribed, purpuric, erythematous vulvar patches. Past estrogen cream treatment evoked symptoms of discomfort. On biopsy, siderophages and extravasated red blood cells were found in conjunction with a lichenoid, lymphocyte and plasma cell infiltrate, and dilated dermal and intraepithelial vessels.\n\nContext: Question: Chronic vulvar purpura: persistent pigmented purpuric dermatitis (lichen aureus) of the vulva or plasma cell (Zoon's) vulvitis?\n\nFindings: Reported herein is an unusual vulvar dermatosis that is best classified as a localized variant of persistent pigmented dermatosis (lichen aureus) but overlaps clinically and histologically with Zoon's vulvitis. This constellation of findings may represent a site-specific mucosal reaction to an erosive process that could either be inflammatory (hypersensitivity reaction) and/or traumatic in nature.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Lichen aureus is localized variant of persistent",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00028",
+    "content": "Question: Answer the question based on the following context: Acute otitis media causes human suffering and enormous costs to society. Symptoms of acute otitis media overlap those of the common cold, and diagnostic methods confirming the diagnosis are used only occasionally. Uncertainty in diagnostics may lead either to overdiagnosis and unnecessary treatment or to underdiagnosis and an increase in complications. Our aim was to evaluate the inter-rater agreement in diagnosis of acute otitis media for children in primary health care. The GP on duty and the otorhinolaryngology resident at a primary health care clinic examined the same 50 children with caregiver-suspected acute otitis media. The otorhinolaryngologist photographed the tympanic membranes. Afterwards, two experienced clinicians evaluated the photographs with and without tympanograms. Diagnostic rates and diagnostic methods between clinicians were compared. The otorhinolaryngologist diagnosed acute otitis media in 44% and the GP in 64%. The GP based the diagnoses on symptoms and on the colour of the tympanic membrane, whereas the otorhinolaryngologist paid more attention to the movement and position of the tympanic membrane.\n\nContext: Question: Is it possible to diagnose acute otitis media accurately in primary health care?\n\nFindings: The use of a pneumatic otoscope and tympanometry reduces the number of acute otitis media diagnoses by>30%, suggesting that acute otitis media may be misdiagnosed often. Between clinicians, there was a substantial discrepancy in diagnoses of acute otitis media.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Acute otitis media causes human suffering and en",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00029",
+    "content": "Question: Answer the question based on the following context: The purpose of this study was to examine whether Internet-based surveys of health professionals can provide a valid alternative to traditional survey methods. (i) Systematic review of published Internet-based surveys of health professionals focusing on criteria of external validity, specifically sample representativeness and response bias. (ii) Internet-based survey of GPs, exploring attitudes about using an Internet-based decision support system for the management of familial cancer. The systematic review identified 17 Internet-based surveys of health professionals. Whilst most studies sampled from professional e-directories, some studies drew on unknown denominator populations by placing survey questionnaires on open web sites or electronic discussion groups. Twelve studies reported response rates, which ranged from nine to 94%. Sending follow-up reminders resulted in a substantial increase in response rates. In our own survey of GPs, a total of 268 GPs participated (adjusted response rate = 52.4%) after five e-mail reminders. A further 72 GPs responded to a brief telephone survey of non-respondents. Respondents to the Internet survey were more likely to be male and had significantly greater intentions to use Internet-based decision support than non-respondents.\n\nContext: Question: Using the Internet to conduct surveys of health professionals: a valid alternative?\n\nFindings: Internet-based surveys provide an attractive alternative to postal and telephone surveys of health professionals, but they raise important technical and methodological issues which should be carefully considered before widespread implementation. The major obstacle is external validity, and specifically how to obtain a representative sample and adequate response rate. Controlled access to a national list of NHSnet e-mail addresses of health professionals could provide a solution.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The purpose of this study was to examine whether",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00030",
+    "content": "Question: Answer the question based on the following context: Metered dose inhalers (MDIs) are not easy to use well. Every MDI user receives a manufacturer's patient information leaflet (PIL). However, not everyone is able or willing to read written information. Multimedia offers an alternative method for teaching or reinforcing correct inhaler technique. The aim of this study was to compare the effects of brief exposure to the same key information, given by PIL and multimedia touchscreen computer (MTS). A single-blind randomized trial was conducted in 105 fluent English speakers (53% female; 93% White) aged 12-87 years in London general practices. All patients had had at least one repeat prescription for a bronchodilator MDI in the last 6 months. Inhaler technique was videotaped before and after viewing information from a PIL (n = 48) or MTS (n = 57). Key steps were rated blind using a checklist and videotape timings. The main outcome measures were a change in (i) global technique; (ii) co-ordination of inspiration and inhaler actuation; (iii) breathing-in time; and (iv) information acceptability. Initially, over a third of both groups had poor technique. After information, 44% (MTS) and 19% (PIL) were rated as improved. Co-ordination improved significantly after viewing information via MTS, but not after PIL. Breathing-in time increased significantly in both groups. Half the subjects said they had learned 'something new'. The MTS group were more likely to mention co-ordination and breathing.\n\nContext: Question: Providing information on metered dose inhaler technique: is multimedia as effective as print?\n\nFindings: Short-term, multimedia is as least as effective as a good leaflet, and may have advantages for steps involving movement. MTS was acceptable to all age groups. The method could be used more widely in primary care.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Metered dose inhalers (MDIs) are not easy to use",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00031",
+    "content": "Question: Answer the question based on the following context: To investigate whether the incomplete penetrance phenotype characteristic of adRP families linked to chromosome 19q13.4 (RP11) with mutations in the PRPF31 gene is due to differentially expressed wild-type alleles in symptomatic and asymptomatic individuals. Real-time quantitative RT-PCR was performed on RNA from lymphoblastoid cell lines derived from a large adRP family (RP856/AD5) that segregates an 11bp deletion in exon 11 of PRPF31. The mRNA levels from only the wild-type allele of PRPF31 were assayed using a probe designed across the deletion. The Mann-Whitney U test was used to compare the median mRNA copy numbers of the symptomatic with the asymptomatic carriers of the mutant PRPF31 allele. The PRPF31 protein levels from symptomatic and asymptomatic individuals were also assayed by Western blot analysis using an antibody specific to the wild-type PRPF31 protein. The use of cell lines was validated by the observation that cell transformation did not alter PRPF31 expression in the cell lines compared with nucleated blood cells and donor retinas. A significant difference in wild-type PRPF31 mRNA levels was observed between symptomatic and asymptomatic individuals (P<0.001) and was supported by Western blot analysis of the PRPF31 protein.\n\nContext: Question: Expression of PRPF31 mRNA in patients with autosomal dominant retinitis pigmentosa: a molecular clue for incomplete penetrance?\n\nFindings: Partial penetrance in RP11 could be due to the coinheritance of a PRPF31 gene defect and a low-expressed wild-type allele. This study revealed a potential avenue for future therapy in that it appears the moderate overexpression of wild-type PRPF31 may prevent clinical manifestation of the disease.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To investigate whether the incomplete penetrance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00032",
+    "content": "Question: Answer the question based on the following context: Atopy is defined by the individual predisposition to develop a group of inflammatory disorders in response to certain food or environmental substances that are otherwise innocuous for the host. In previous studies we could demonstrate a reduced responsiveness of the hypothalamus-pituitary-adrenal (HPA) axis to psychosocial stress in young and adult patients with atopic dermatitis (AD), a chronic atopic skin disorder. With respect to the important immunoregulatory role of the HPA axis, especially under stress, this observation could be of clinical relevance and may at least partly explain stress-induced exacerbation of AD. The present study was designed to investigate whether attenuated responsiveness of the HPA axis to stress represents a characteristic feature of AD or whether it can also be found in other chronic manifestations of atopy. Children (aged 7-12) with allergic asthma (AA; N = 17) and age- and sex-matched healthy controls (N = 18) were exposed to the \"Trier Social Stress Test for Children\"(TSST-C), which mainly consists of a free speech and mental arithmetic tasks in front of an audience. Salivary cortisol was measured in ten-minute intervals before and after the TSST-C, while heart rate was monitored continuously. In addition, early morning cortisol levels (after awakening, +10, +20, +30 minutes) were assessed on three consecutive days. Data analysis yielded a significant increase of cortisol concentrations (F (9297)= 16.79; p<.001) and heart rates (F(32,992)= 9.16; p<.001) after the stressor with no between-group difference in heart rate responses. However, AA children showed a significantly blunted cortisol response to the TSST-C when compared with the control group (F(9297)= 2.95; p<.01). Awakening in the morning was accompanied by a significant rise of cortisol levels on all three experimental days in AA and control subjects (all p<.001) that was not different between the two groups.\n\nContext: Question: Blunted cortisol responses to psychosocial stress in asthmatic children: a general feature of atopic disease?\n\nFindings: These findings suggest that a blunted adrenocortical response to stress may represent a common feature of chronic allergic inflammatory processes that may be relevant in different forms of chronic manifestation of atopy.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Atopy is defined by the individual predispositio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00033",
+    "content": "Question: Answer the question based on the following context: Irritable bowel syndrome (IBS) is frequently associated with mood disorder. However, it is typically difficult to distinguish between disturbed mood as a causal agent and disturbed mood as a consequence of the experience of IBS. This report considers the association between mood and symptom severity in a patient with diarrhea-predominant IBS and stable, rapid cycling bipolar disorder with a predominantly depressive course. Such a case provides an important opportunity to determine the direction of the relationship between mood and IBS symptom severity because the fluctuations of mood in bipolar disorder are assumed to be driven largely by biological, rather than psychosocial, processes. The study was carried out prospectively, with ratings of mood and IBS symptom severity made daily by the patient for a period of almost 12 months. The patient experienced regular and substantial changes in mood as well as fluctuations in the level of IBS symptoms during the study period. Contrary to expectation, the correlation between mood and IBS symptom severity on the same day suggested that the patient experienced less severe IBS symptoms during periods of more severe depression. However, time series analysis revealed no significant association between these two processes when serial dependence within each series was controlled for.\n\nContext: Question: Does depression influence symptom severity in irritable bowel syndrome?\n\nFindings: The unusual co-occurrence of IBS with bipolar disorder provides direct evidence to indicate that depression does not necessarily lead to an increase in the reported severity of IBS, at least in the context of bipolar disorder, and may under certain circumstances actually be associated with a reduction in the severity of IBS symptoms. Factors that might moderate the relationship between depression and symptom severity are discussed.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Irritable bowel syndrome (IBS) is frequently ass",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00034",
+    "content": "Question: Answer the question based on the following context: Macrophages are considered to play an essential role in the events leading to systemic inflammatory response. Some are known to reside in the peritoneal cavity but there are no reports defining the participation of peritoneal macrophages (PMs) in the progression of acute pancreatitis.AIM: To clarify the role of PMs in the progression of acute pancreatitis. Acute pancreatitis was induced in rats from which macrophages other than PMs were greatly depleted, and in rats greatly depleted of macrophages including PMs. Macrophages were depleted by the injection of liposome encapsulated dichloromethylene bisphosphonate. After the induction of acute pancreatitis, local pancreatic inflammation, intraperitoneal inflammation and lung injury were compared between the 2 groups. Local pancreatic inflammation did not differ between the 2 groups. However, intraperitoneal inflammation was clearly improved by the depletion of PMs. Serum cytokine level and lung injury were also improved by the depletion of PMs.\n\nContext: Question: Do peritoneal macrophages play an essential role in the progression of acute pancreatitis in rats?\n\nFindings: Peritoneal macrophages extend inflammation from the pancreas to the peritoneal cavity and subsequently induce lung injury in acute pancreatitis. Peritoneal macrophages play an essential role in the systemic inflammatory response and the progression of acute pancreatitis in the rat.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Macrophages are considered to play an essential ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00035",
+    "content": "Question: Answer the question based on the following context: Extrahepatic biliary atresia (EHBA) is the most common indication for liver transplantation in childhood. Most children who do not undergo transplant are reported to have chronic liver disease and its complications. The aim of this single-center study was to identify children with normal laboratory indices and no clinical evidence of chronic liver disease 10 or more years after Kasai portoenterostomy (KP). A retrospective analysis of the medical notes of all children surgically treated at the authors' center between 1979 and 1991 was undertaken. Criteria for inclusion were absence of surgical complications, unremarkable clinical examination, and normal bilirubin, aspartate aminotransferase, albumin, international normalized prothrombin ratio, and platelet count. Of 244 children surgically treated during the observation period, the authors identified 28 (11%) adolescents (14 male) who fulfilled the entry criteria. Their median age was 13.4 years (range, 10.2-22.2 years). Twenty-six with type 3 EHBA had conventional KP, whereas 2 underwent modified operations. The corrective surgery was performed at a median age of 58 days (range, 20-99 days). Median time of complete clearance of jaundice from the date of KP was 75 days (range, 21-339 days). Twelve (43%) patients had history of cholangitis at a median age of 3.4 years. The liver histologic findings were suggestive of mild to moderate fibrosis in 54.2% and cirrhosis in 40.7% of the patients who underwent biopsy. No child had gastrointestinal bleeding during follow-up. Thirteen (46%) patients had an elective esophagogastroduodenoscopy, which was normal in all. Twenty-six (93%) patients were in mainstream education, whereas the remaining two (7%) attended special school because of reasons unrelated to liver disease.\n\nContext: Question: Long-term survival following Kasai portoenterostomy: is chronic liver disease inevitable?\n\nFindings: A sizable proportion of children with EHBA avoid significant chronic liver disease and its complications 10 years or more after conventional surgical correction and have an excellent quality of life. Their good outcome is not hampered by isolated episodes of ascending cholangitis. Whether or not the residual histologic damage will become symptomatic during their lifetime remains to be established.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Extrahepatic biliary atresia (EHBA) is the most ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00036",
+    "content": "Question: Answer the question based on the following context: A major problem in the field of transplantation is the persistent shortage of donor organs and tissues for transplantation. This study was initiated to (1) chart the donor potential for organs and tissue in The Netherlands and (2) to identify factors influencing whether donation is discussed with next of kin. A registration form was constructed to obtain information at time of death of patients about the demographic characteristics, diagnosis, and medical suitability for donation. A prospective study was conducted among 11 hospitals in The Netherlands that gathered 4,877 filled-in forms equaling 8% to 10% of the people dying in a hospital in The Netherlands per year. In the year of the study, organs were retrieved from 22 donors and tissues from 264 donors in the 11 hospitals. The organ potential is estimated at a maximum of 38.7 per million population per year. A mere 5% of the physicians got a 100% score on criteria and contraindications for donation. Factors of influence on receiving consent for donation were the will of the donor, using a protocol, giving verbal information to the relatives, and presence of the partner of the deceased patient. For 26% of the potential tissue donors and 69% of the potential organ donors, donation was discussed with the relatives. Consent for tissue donation was obtained in 27%, and consent for organ donation was obtained in 60%.\n\nContext: Question: Shortage of donation despite an adequate number of donors: a professional attitude?\n\nFindings: In The Netherlands, when taking into account current refusal percentages, 320 to 360 organ donations and 5,800 tissue donations could be effectuated if organ donation is posed to all possible donors. For this, knowledge of medical criteria and contraindications for donation by the physicians and their willingness to discuss donation with next of kin must be improved.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: A major problem in the field of transplantation ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00037",
+    "content": "Question: Answer the question based on the following context: An association between posttransplant lymphoproliferative disorder (PTLD) and cyclosporine A (CsA) and OKT3 has often been postulated on the basis of retrospective studies, although a randomized study with PTLD as the endpoint will probably never be performed. Because focus on PTLD coincided with the use of these drugs, a bias could be suspected. In a retrospective, nonrandomized study, we reevaluated all lymphoma-like lesions arising in kidney-transplant patients grafted at our center during 1969 to 1998 and observed up to 2002. Case pathology was reviewed, and an association with Epstein-Barr virus (EBV) infection (and latency pattern) was assessed. We did not find any significant difference in the incidence of PTLDs when comparing the prednisolone/azathioprine, and CsA eras (P=0.89), the periods before or after OKT3 (P=0.61), and those before or after antilymphocyte globulin (ALG) (P=0.22). Occurrence time was shorter in the CsA (P=0.059), OKT3 (P=0.007), and ALG (P=0.007) eras. In the OKT3 era, 182 patients received, and 224 did not receive, OKT3; after the same observation time, there had been eight and five PTLDs, respectively (P=0.34). The use of mycophenolate mofetil (MMF) was associated with a reduction in the number of PTLDs (P=0.01). EBV was detected in 16 of 21 (76%) cases.\n\nContext: Question: Is posttransplant lymphoproliferative disorder (PTLD) caused by any specific immunosuppressive drug or by the transplantation per se?\n\nFindings: We found no evidence to implicate any one drug regime preferentially in the development of PTLDs. The risk of developing PTLD seems to be a result of the whole transplantation process, which includes the antigenicity of the foreign graft, the immunosuppression resulting in inadequate cytotoxic T-cell activity, and the result of EBV infection. An important minority of cases are EBV negative.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: An association between posttransplant lymphoprol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00038",
+    "content": "Question: Answer the question based on the following context: It has been speculated for more than 2 decades whether there is a significance of adrenal corticosteroids, such as cortisol, in the process of normal male sexual function, especially in the control of sexual arousal and the penile erectile tissue. However, only few in vivo studies have been carried out up until now on the effects of cortisol on human male sexual performance and penile erection. In order to evaluate further the role of cortisol in male sexual activity, the present study was conducted to detect serum levels of cortisol in the systemic and cavernous blood taken during different penile conditions from healthy males. The effects of cortisol derivative prednisolone, catecholamine norepinephrine (NE) and the peptide endothelin-1 (ET-1) on isolated human corpus cavernosum (HCC) were investigated using the organ bath technique. Fifty-four healthy adult male subjects were exposed to erotic stimuli in order to elicit penile tumescence and rigidity. Whole blood was simultaneously aspirated from the corpus cavernosum and the cubital vein during different penile conditions. Serum levels of cortisol (microg/dl) were determined by means of a radioimmunoassay (ELISA). In the healthy volunteers, cortisol serum levels significantly decreased in the systemic circulation and the cavernous blood with increasing sexual arousal, when the flaccid penis became rigid. During detumescence, the mean cortisol level remained unaltered in the systemic circulation, whereas in the cavernous compartment, it was found to decrease further. Under all penile conditions, no significant differences were registered between cortisol levels in the systemic circulation and in the cavernous blood. Cumulative addition of NE and ET-1 (0.001-10 microM) induced contraction of isolated HCC strips, whereas the contractile response to prednisolone was negligible.\n\nContext: Question: Is there an inhibitory role of cortisol in the mechanism of male sexual arousal and penile erection?\n\nFindings: Our results strongly suggest an inhibitory role for cortisol in the mechanism of male sexual response and behaviour. These properties are mediated rather via an effect on central structures than on the penile erectile tissue. Future studies to include patients suffering from erectile dysfunction may reveal whether or not there are differences in the cortisol serum profiles of healthy subjects and patients under different stages of sexual arousal.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: It has been speculated for more than 2 decades w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00039",
+    "content": "Question: Answer the question based on the following context: To investigate the rates of Staphylococcus aureus carriage on the hands and in the noses of healthcare workers (HCWs) and the relatedness of S. aureus isolates found in the two sites. Point-prevalence study. Department for Thoracic and Cardiovascular Surgery at the University Hospital of Uppsala, Uppsala, Sweden. Samples were obtained from 133 individuals, 18 men and 115 women, using imprints of each hand on blood agar and a swab from the nose. S. aureus isolates were identified by standard methods and typed by pulsed-field gel electrophoresis. S. aureus was found on the hands of 16.7% of the men and 9.6% of the women, and in the noses of 33.3% of the men and 17.4% of the women. The risk ratio for S. aureus carriage on the hands with nasal carriage was 7.4 (95% confidence interval, 2.7 to 20.2; P<.001). Among the 14 HCWs carrying S. aureus on their hands, strain likeness to the nasal isolate was documented for 7 (50%).\n\nContext: Question: Nasal and hand carriage of Staphylococcus aureus in staff at a Department for Thoracic and Cardiovascular Surgery: endogenous or exogenous source?\n\nFindings: Half of the HCWs acquired S. aureus on the hands from patients or the environment and half did so by apparent self-inoculation from the nose. Regardless of the source of contamination, good compliance with hand hygiene is needed from all HCWs to protect patients from nosocomial infections. The moderate rate of S. aureus carriage on hands in this setting could be the result of the routine use of alcoholic hand antisepsis.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To investigate the rates of Staphylococcus aureu",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00040",
+    "content": "Question: Answer the question based on the following context: P wave dispersion (PD) is considered to reflect the heterogeneous conduction in atria. We investigated whether there was a correlation between the left ventricular (LV) relaxation and PD. Fifty-three hypertensive patients<or =60 years old were divided into two groups: Group A, 27 patients, aged 54+/-5 years with the impaired LV relaxation and Group B, 26 patients, aged 51+/-8 years with normal LV relaxation. The P wave durations were measured in all 12 leads of ECG and PD was defined as the difference between maximum and minimum P wave duration (Pmax-Pmin). Mitral inflow velocities (E and A), E deceleration time (DT), isovolumic relaxation time (IVRT), left atrial and ventricular diameters, and wall thickness of LV were obtained by echocardiography. Clinical characteristics of both groups were comparable. The wall thickness of LV, Pmax, and left atrial dimension were not different in both groups. A velocity was higher (P<0.001), but E velocity (P=0.03) and E/A ratio (P<0.001) were lower in group A than in group B. IVRT and DT were also significantly longer in group A. PD was significantly higher in group A compared to group B (51+/-9 vs 41+/-11 ms, P=0.01). This difference resulted from the Pmin (61+/-10 vs 67+/-9 ms, P=0.03, respectively). Multivariate analysis revealed a significant correlation between PD and A velocity (r=0.46, P=0.01), E/A ratio (r=-0.53, P=0.001), DT (r=0.65, P<0.001), and IVRT (r=0.73, P<0.001).\n\nContext: Question: Does impaired left ventricular relaxation affect P wave dispersion in patients with hypertension?\n\nFindings: This study suggests that impaired LV relaxation contributes to the heterogeneous atrial conduction in hypertensive patients.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: P wave dispersion (PD) is considered to reflect ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00041",
+    "content": "Question: Answer the question based on the following context: In order to perform euglycaemic clamp studies in Type 2 diabetic patients, plasma glucose must be reduced to normal levels. This can be done either (i) acutely during the clamp study using high-dose insulin infusion, or (ii) slowly overnight preceding the clamp study using a low-dose insulin infusion. We assessed whether the choice of either of these methods to obtain euglycaemia biases subsequent assessment of glucose metabolism and insulin action. We studied seven obese Type 2 diabetic patients twice: once with (+ ON) and once without (- ON) prior overnight insulin infusion. Glucose turnover rates were quantified by adjusted primed-constant 3-3H-glucose infusions, and insulin action was assessed in 4-h euglycaemic, hyperinsulinaemic (40 mU m-2 min-1) clamp studies using labelled glucose infusates (Hot-GINF). Basal plasma glucose levels (mean +/- sd) were 5.5 +/- 0.5 and 10.7 +/- 2.9 mmol/l in the + ON and - ON studies, respectively, and were clamped at -5.5 mmol/l. Basal rates of glucose production (GP) were similar in the + ON and - ON studies, 83 +/- 13 vs. 85 +/- 14 mg m-2 min-1 (NS), whereas basal rates of glucose disappearance (Rd) were lower in the + ON than in the - ON study, 84 +/- 8 vs. 91 +/- 11 mg m-2 min-1 (P = 0.02). During insulin infusion in the clamp period, rates of GP, 23 +/- 11 vs. 25 +/- 10 mg m-2 min-1, as well as rates of Rd, 133 +/- 32 vs. 139 +/- 37 mg m-2 min-1, were similar in the + ON and - ON studies, respectively (NS).\n\nContext: Question: Does overnight normalization of plasma glucose by insulin infusion affect assessment of glucose metabolism in Type 2 diabetes?\n\nFindings: Apart from basal rates of Rd, assessment of glucose turnover rates in euglycaemic clamp studies of Type 2 diabetic patients is not dependent on the method by which plasma glucose levels are lowered.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: In order to perform euglycaemic clamp studies in",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00042",
+    "content": "Question: Answer the question based on the following context: To assess the outcome of men presenting with lower urinary tract symptoms (LUTS) associated with large postvoid residual urine volumes (PVR). The study included men presenting with LUTS and a PVR of>250 mL who, because of significant comorbidity, a low symptom score or patient request, were managed conservatively and prospectively, and were followed with symptom assessment, serum creatinine levels, flow rates and renal ultrasonography. Patients were actively managed if there was a history of previous outflow tract surgery, prostate cancer, urethral strictures, neuropathy, elevated creatinine or hydronephrosis. In all, 93 men (mean age 70 years, range 40-84) with a median (range) PVR of 363 mL (250-700) were included in the study and followed for 5 (3-10) years. At presentation, the median maximum flow rate was 10.2 (3-30) mL/s and the voided volume 316 (89-714) mL. The measured PVR remained stable in 47 (51%), reduced in 27 (29%) and increased in 19 (20%) patients; 31 patients (33%) went on to transurethral resection of the prostate after a median of 30 (10-120) months, because of serum creatinine elevation (two), acute retention (seven), increasing PVR (eight) and worsening symptoms (14). Of 31 patients 25 were available for evaluation after surgery; their median PVR was 159 (0-1000) mL, flow rate 18.4 (4-37) mL/s and voided volume 321 (90-653) mL. Symptoms were improved in all but five men. There was no difference in initial flow rate, voided volume or PVR between those who developed complications or went on to surgery and those who did not. Urinary tract infections (UTIs) occurred in five patients and two developed bladder stones.\n\nContext: Question: Is the conservative management of chronic retention in men ever justified?\n\nFindings: Complications such as renal failure, acute retention and UTIs are uncommon in men with large, chronic PVRs. Conservative management for this group of patients is reasonable but outpatient review is prudent. There were no factors that could be used to predict those patients who eventually required surgery.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To assess the outcome of men presenting with low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00043",
+    "content": "Question: Answer the question based on the following context: To report the experience in one centre of the efficacy and safety of open mini-access ureterolithotomy (MAU) and to discuss relevant current indications. MAU was undertaken in 112 patients (mean age 38 years, range 26-57) between 1991 and 2001; the details and outcomes are reviewed. The mean (range) stone size was 12 (8-22) mm, with 30 stones in the upper, 69 in the mid- and 13 in the lower ureter. In 15 cases the stones were impacted and there were signs of infection in the proximal ureter. MAU was successful in 111 patients; the one failure was caused by proximal stone migration early in the series. The mean (range) operative duration was 28 (10-44) min and the hospital stay 42 (24-72) h; 33 patients were in hospital for 24 h, 72 for 48 h and seven for 72 h. The blood loss was minimal, at 50 (30-150) mL. The drain was removed after 5 (5-7) days. Patients reported using opioid or nonsteroidal anti-inflammatory analgesia for a mean of 4 (1-7) days after surgery. The mean time to resumption of work was 16 (8-35) days.\n\nContext: Question: Open mini-access ureterolithotomy: the treatment of choice for the refractory ureteric stone?\n\nFindings: MAU is a safe and reliable minimally invasive procedure; its role is mainly confined to salvage for failed first-line stone treatments but in selected cases, where a poor outcome can be predicted from other methods, it is an excellent first-line treatment.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To report the experience in one centre of the ef",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00044",
+    "content": "Question: Answer the question based on the following context: To determine whether nursing homes (NHs) that score differently on prevalence of weight loss, according to a Minimum Data Set (MDS) quality indicator, also provide different processes of care related to weight loss. Cross-sectional. Sixteen skilled nursing facilities: 11 NHs in the lower (25th percentile-low prevalence) quartile and five NHs in the upper (75th percentile-high prevalence) quartile on the MDS weight-loss quality indicator. Four hundred long-term residents. Sixteen care processes related to weight loss were defined and operationalized into clinical indicators. Trained research staff conducted measurement of NH staff implementation of each care process during assessments on three consecutive 12-hour days (7 a.m. to 7 p.m.), which included direct observations during meals, resident interviews, and medical record abstraction using standardized protocols. The prevalence of weight loss was significantly higher in the participants in the upper quartile NHs than in participants in the lower quartile NHs based on MDS and monthly weight data documented in the medical record. NHs with a higher prevalence of weight loss had a significantly larger proportion of residents with risk factors for weight loss, namely low oral food and fluid intake. There were few significant differences on care process measures between low- and high-weight-loss NHs. Staff in low-weight-loss NHs consistently provided verbal prompting and social interaction during meals to a greater proportion of residents, including those most at risk for weight loss.\n\nContext: Question: The minimum data set weight-loss quality indicator: does it reflect differences in care processes related to weight loss?\n\nFindings: The MDS weight-loss quality indicator reflects differences in the prevalence of weight loss between NHs. NHs with a lower prevalence of weight loss have fewer residents at risk for weight loss and staff who provide verbal prompting and social interaction to more residents during meals, but the adequacy and quality of feeding assistance care needs improvement in all NHs.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To determine whether nursing homes (NHs) that sc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00045",
+    "content": "Question: Answer the question based on the following context: To assess whether physicians know of Washington State's prehospital do-not-resuscitate (DNR) policy, 6 years after its implementation. Cross-sectional survey. Washington State, April 2001. Four hundred seventy-one practicing physicians. Multivariate logistic regression was used to determine relationships between physician and practice characteristics with knowledge of policies governing advance care planning. Among respondents, 60% did not know that Washington State requires an emergency medical service (EMS)-specific DNR order authored by a physician. Seventy-nine percent did not know that patient-authored advance directives apply only in hospitals and medical offices.\n\nContext: Question: Prehospital DNR orders: what do physicians in Washington know?\n\nFindings: The findings in this study suggest that most physicians in Washington State lack knowledge about the documentation needed for EMS personnel to forgo pre-hospital attempts at cardiopulmonary resuscitation. Further study is needed to determine whether physician education or legislative change is necessary.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To assess whether physicians know of Washington ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00046",
+    "content": "Question: Answer the question based on the following context: to test the hypothesis that there is a negative association between serum levels of lipoprotein(a) (Lp(a)) and elastin-derived peptides (EDP) as well as matrix metalloproteinase (MMP)-9 activation in the aneurysm wall in patients with asymptomatic abdominal aortic aneurysms (AAA). from 30 patients operated for asymptomatic AAAs, preoperative serum samples and AAA biopsies were collected. Lp(a) (mg/L) and EDP (ng/ml) in serum were measured by enzyme linked immunosorbent assays. MMP-9 activity (arbitrary units) in the AAA wall was measured by gelatin zymography and the ratio: active MMP-9/total MMP-9 were calculated. there was a significant negative correlation (Spearman's rho) between serum levels of Lp(a) and EDP (r= -0.707, p<0.001), as well as the share of activated MMP-9 (r= -0.461, p=0.01) in the AAA wall.\n\nContext: Question: Does lipoprotein(a) inhibit elastolysis in abdominal aortic aneurysms?\n\nFindings: this preliminary study indicate that Lp(a) inhibit elastolysis in asymptomatic AAA.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: to test the hypothesis that there is a negative ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00047",
+    "content": "Question: Answer the question based on the following context: To determine the impact of prospective electrocardiographic (ECG) triggering on image quality and diagnostic outcome of thin-section computed tomography (CT) of the lung. Forty-five consecutive patients referred for thin-section CT of the lung were examined with prospectively ECG-triggered and nontriggered thin-section CT of the lung with a multi-detector row helical CT scanner. Subjective image quality criteria (image noise, motion artifacts, and diagnostic accessibility) were rated by three radiologists in consensus for the upper lobe, middle lobe and/or lingula, and lower lobe. Pathologic changes were assessed for the various lobes, and a diagnosis was assigned. The diagnoses were compared by two radiologists in consensus to determine the effects of CT technique on diagnostic outcome. Quantitative measurements were performed, including determination of image noise and signal-to-noise ratios in different anatomic regions. The Wilcoxon signed rank test and paired sign test (both with Bonferroni correction) were used for statistical analysis. Subjective assessment showed significant differences in motion artifact reduction in the middle lobe, lingula, and left lower lobe. The diagnostic assessibility of triggered CT was rated significantly higher only for the left lower lobe compared with nontriggered data acquisition. No differences in diagnostic outcome were determined between triggered and nontriggered techniques. Mean image noise in tracheal air was 68.2 +/- 17 (SD) for triggered CT versus 37.4 +/- 9 for nontriggered CT (P<.05). Mean signal-to-noise ratio in the upper versus lower lobes was 22.5 +/- 8 versus 25.4 +/- 10 for triggered and 35.6 +/- 9 versus 39.2 +/- 10 for nontriggered techniques (P<.05).\n\nContext: Question: Thin-section CT of the lung: does electrocardiographic triggering influence diagnosis?\n\nFindings: Given the lack of improvement in diagnostic accuracy and the need for additional resources, ECG-triggered thin-section CT of the lung is not recommended for routine clinical practice.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To determine the impact of prospective electroca",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00048",
+    "content": "Question: Answer the question based on the following context: The US Food and Drug Administration (FDA) recommends exposure limits for tanning bed use. Tanning patrons may not be following these recommendations and may be overexposed to damaging ultraviolet radiation (UV). This study was conducted to assess tanning patrons' adherence to FDA-recommended exposure limits and to measure the amount of UVA and UVB radiation emitted by tanning beds. A community-based survey was administered during routine state inspections of North Carolina tanning facilities (n = 50). At each facility, patron records were randomly selected (n = 483) for a survey of exposure records, and UVA and UVB outputs were measured for each tanning bed. The recommended limits were exceeded by 95% of patrons, and 33% of patrons began tanning at the maximum doses recommended for maintenance tanning. Average tanning bed output was 192.1 W/m(2) UVA and 0.35 W/m(2) erythemally weighted UVB.\n\nContext: Question: Tanning facility use: are we exceeding Food and Drug Administration limits?\n\nFindings: Interventions for tanning bed operators and patrons are needed to increase compliance with federally recommended exposure limits.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: The US Food and Drug Administration (FDA) recomm",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00049",
+    "content": "Question: Answer the question based on the following context: Treatment of various diseases has been noted to vary by patient demographics. There is reason to suspect that there may be sex and racial differences in the treatment of severe acne. We sought to determine if treatment of severe acne with oral isotretinoin varied with patient sex, race, or both. We analyzed the demographics of patients with acne and patients using oral isotretinoin, minocycline, and tetracycline recorded in the 1990 to 1997 National Ambulatory Medical Care Survey. There were 35 million visits to physicians for the treatment of acne between 1990 and 1997, and isotretinoin was prescribed at 5.8 million (17%) of these visits. Per capita visit rates for acne among whites was 2.3 times that of blacks, and whites were 1.8 times more likely to receive isotretinoin at acne visits. Per capita, women had 1.4 times as many visits for acne as men, but men were 1.7 times more likely than women to receive isotretinoin at an acne visit. Dermatologists managed 83% of all isotretinoin visits. Dermatologists accounted for 100% of isotretinoin visits for which pregnancy prevention education and counseling was reported.\n\nContext: Question: Are there racial and sex differences in the use of oral isotretinoin for acne management in the United States?\n\nFindings: Patients who are black receive less oral isotretinoin than those who are white, and the expense of isotretinoin appears to be one factor in this difference. Women are less likely than men to receive isotretinoin at acne visits. Expense does not appear to be a factor in this difference. Dermatologists have more experience than nondermatologists managing acne, prescribing isotretinoin, and counseling women treated with isotretinoin concerning pregnancy prevention. Pregnancy prevention is an essential component of isotretinoin use in women that must not be ignored.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: Treatment of various diseases has been noted to ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  },
+  {
+    "document_id": "pubmed_00050",
+    "content": "Question: Answer the question based on the following context: To study breastfeeding during the first year of life and the kind of complementary food provided at one year of life to children of adolescent mothers. To compare these data with breastfeeding and complementary food received by children of adult mothers. A dual cohort was performed. Children were selected from the files of CAISM/UNICAMP and assessed when they were one year old. This study consisted of 122 children born from adolescent mothers and 123 children born from adult mothers--full-term births, birthweight was 2,500 g or higher. When the children were one year old, the mothers were interviewed at home or at CIPED/UNICAMP. The results were compared using the chi-square test and the Fisher's test; alpha=5%; the Kaplan-Meier method was used to analyze the duration of breastfeeding and the Wilcoxon test (Breslow) to compare the exclusive, predominant, full and total breastfeeding curves. 94.3% of children of adolescent mothers and 95.9% of children of adult mothers left the maternity hospital being breastfed (p=0.544). The median exclusive breastfeeding duration for both groups was 90 days. After completing one year, 35.3% and 28.5% of children of adolescent and adult mothers, respectively, continued breastfeeding (p=0.254): only breastfeeding 11.5% vs. 8.9% and mixed feeding 23.8% vs. 19.5% (p=0.519). Meat intake by children of adolescent mothers was lower than that of children of adult mothers (13.9% vs. 26.0%; Fisher's test: p=0.031). With regard to egg intake, 11.5% vs. 19.5% of children of adolescent mothers and adult mothers did not eat egg but the results suggested that the egg intake of children of adolescent mothers was higher (p=0.082).\n\nContext: Question: Are breastfeeding and complementary feeding of children of adolescent mothers different from those of adult mothers?\n\nFindings: Duration and pattern of breastfeeding were similar between children of adolescent mothers and of adult mothers. The complementary nutrition was similar, except for a lower intake of meat and a higher intake of eggs among the children of adolescent mothers.",
+    "metadata": {
+      "source": "PubMed",
+      "title": "Answer the question based on the following context: To study breastfeeding during the first year of ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "document_type": "article",
+      "category": "biomedical_research"
+    }
+  }
+]
